@@ -1,10 +1,10 @@
 <p align="center">
-  <img alt="Dynamic_Vertex_Renderer" src="https://github.com/SgtR0ck/Dynamic-Vertex-Renderer/assets/8111664/c4600e53-57ce-4ccf-ba90-32386fdea018"
+  <img alt="Dynamic_Vertex_Renderer" src="https://github.com/SgtR0ck/Dynamic-Vertex-Renderer/assets/8111664/22e0dd29-d036-4224-b04a-b039dd4a8e36"
 </p>
 <h1 align="center"> 
   Dynamic Vertex Renderer
 </h1>
-  
+
 <p align="center">
   <a href="https://github.com/SgtR0ck/City_Simulator">
     <img src="https://img.shields.io/badge/version-1.0.0-green.svg?style=plastic">
