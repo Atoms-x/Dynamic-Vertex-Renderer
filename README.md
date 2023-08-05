@@ -1,10 +1,10 @@
 <p align="center">
-  <img alt="Dynamic_Vertex_Renderer" src="https://github.com/SgtR0ck/Dynamic-Vertex-Renderer/assets/8111664/517cf86b-175a-42db-8c8b-4d38bfa255de"
+  <img alt="Dynamic_Vertex_Renderer" src="https://github.com/SgtR0ck/Dynamic-Vertex-Renderer/assets/8111664/c4600e53-57ce-4ccf-ba90-32386fdea018"
 </p>
 <h1 align="center"> 
   Dynamic Vertex Renderer
 </h1>
-
+  
 <p align="center">
   <a href="https://github.com/SgtR0ck/City_Simulator">
     <img src="https://img.shields.io/badge/version-1.0.0-green.svg?style=plastic">
@@ -29,7 +29,7 @@
 
 ## Introduction
 
-This is a JavaScript based program, a WebGL renderer that dynamically creates a triangle mesh from a coded constant 'k' (vertex count), then calculates the z height for every vertex using an x/y bivariate function.
+This is a JavaScript based program, a WebGL renderer that dynamically creates a triangle mesh from a coded constant 'k' (face count), then calculates the z height for every vertex using an x/y bivariate function.
 
 ## Getting Started
 
@@ -46,9 +46,9 @@ Additionally, make sure to have the "lib" folder and included files local to the
 
 In order to run this program, just double click on the html file to open in your supported web browser of choice. The program should run on its own and you should be presented with a rotating image of the triangle mesh (final shape is variable based on the 'k' factor)
 
-![image](https://github.com/SgtR0ck/Dynamic-Vertex-Renderer/assets/8111664/0e957d96-ce86-4155-b1e9-cca6457304f0)
+![image](https://github.com/SgtR0ck/Dynamic-Vertex-Renderer/assets/8111664/22b2af61-b59f-4e27-9a2c-d0d7049fbf6d)
 
-'k' factor of 50
+'k' factor of 64
 
 
 ## Authors
