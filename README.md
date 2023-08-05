@@ -57,7 +57,7 @@ In order to run this program, just double click on the html file to open in your
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/SgtR0ck/C_Shell/blob/main/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/SgtR0ck/Dynamic-Vertex-Renderer/blob/main/LICENSE.md) file for details
 
 ## Acknowledgments
 
