@@ -53,7 +53,7 @@ In order to run this program, just double click on the html file to open in your
 
 ## Authors
 
-* **Chet Lockwood** - [SgtR0ck](https://github.com/SgtR0ck)
+* **Chet Lockwood** - [Atoms-x](https://github.com/Atoms-x)
 
 ## License
 
